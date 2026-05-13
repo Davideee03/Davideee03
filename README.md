@@ -11,7 +11,7 @@
 ### About me
 
 I'm currently studying Artificial Intelligence and Machine Learning in Rome.
-I enjoy exploring how models learn, fail, and improve (and fail again :)).
+I enjoy exploring how models learn, fail, and improve — and building things along the way.
 
 ---
 
@@ -32,4 +32,9 @@ I enjoy exploring how models learn, fail, and improve (and fail again :)).
 
 <div align="center">
   <sub>More coming soon.</sub>
+
+  <br><br>
+
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/daaavi03k)
+
 </div>
