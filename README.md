@@ -1,6 +1,6 @@
 <div align="center">
 
-# Davide
+# Davide Marrocco
 
 **AI & Machine Learning student** · Roma Tre University 🇮🇹
 
@@ -19,6 +19,13 @@ I enjoy exploring how models learn, fail, and improve — and building things al
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+---
+
+### Projects
+
+- 🎵 **[Vibely](https://github.com/Davideee03/Vibely-MusicPlayerAndVisualizer)** — Local music player with audio-reactive visualizer. Built with Electron.
 
 ---
 
@@ -26,15 +33,12 @@ I enjoy exploring how models learn, fail, and improve — and building things al
 
 - 📚 Studying AI/ML at Roma Tre
 - 🔍 Learning something new every day
-- 🛠️ Building my first projects
+- 🛠️ Building and shipping open source projects
 
 ---
-
 <div align="center">
   <sub>More coming soon.</sub>
-
   <br><br>
-
   [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/daaavi03k)
-
 </div>
+
