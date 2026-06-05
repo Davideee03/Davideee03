@@ -11,7 +11,7 @@
 ### About me
 
 I'm currently studying Artificial Intelligence and Machine Learning in Rome.
-I enjoy exploring how models learn, fail, and improve — and building things along the way.
+I enjoy exploring how models learn, fail, and improve... and building things along the way.
 
 ---
 
